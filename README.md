@@ -31,7 +31,6 @@ The dashboard provides insights into employee compensation, demographics, perfor
 
 ## 📈 Dashboard Preview
 
-![HR Dashboard](HR_Dashboard_Power_BI.png)
-
+![HR Dashboard](HR%20Dashboard_Power%20BI.png)
 ---
 *Part of NTI Data Analysis Training Program*
